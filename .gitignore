@@ -1,0 +1,4 @@
+# Ignore the following file types:
+*.in
+*.out
+*.pyc
